@@ -1,0 +1,12 @@
+# Compiler outputs
+*.exe
+*.o
+*.obj
+*.out
+
+# IDEs and workspace files
+.vs/
+.vscode/
+.idea/
+*.suo
+*.user
